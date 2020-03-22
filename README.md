@@ -26,6 +26,7 @@ offerType	报价类型：提供：0，请求：1
 creatDate	汽车上线时间，即开始售卖时间
 price	二手车交易价格（预测目标）
 v系列特征	匿名特征，包含v0-14在内15个匿名特征
+
 二、评测标准
 评价标准为MAE(Mean Absolute Error)。
 enter image description here
@@ -41,6 +42,7 @@ SaleID,price
 150001,1250
 150002,2580
 150003,1178
+
 四、Datawhale赛事专题学习资料
 零基础入门数据挖掘 - 二手车交易价格预测赛事专题分享
 ps:供大家参考学习，具体还需要亲身实践
